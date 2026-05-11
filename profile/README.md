@@ -51,14 +51,9 @@ Use this area if you are building platform services, SaaS backends, frontend com
 
 Choose the path that matches your goal:
 
-- **I want to move AI-assisted delivery beyond prototypes**
-  Start with [`cyber-constructor`](https://github.com/cyberfabric/cyber-constructor).
-
-- **I want engineering productivity and delivery insights**  
-  Start with [`cyber-insight`](https://github.com/cyberfabric/cyber-insight).
-
-- **I want SaaS/XaaS building blocks instead of generating a whole app from scratch**
-  Start with [`cyberware-rust`](https://github.com/cyberfabric/cyberware-rust) and [`cyberware-frontx`](https://github.com/cyberfabric/cyberware-frontx).
+- **I want to move AI-assisted delivery beyond prototypes** — Start with [`cyber-constructor`](https://github.com/cyberfabric/cyber-constructor).
+- **I want engineering productivity and delivery insights** — Start with [`cyber-insight`](https://github.com/cyberfabric/cyber-insight).
+- **I want SaaS/XaaS building blocks instead of generating a whole app from scratch** — Start with [`cyberware-rust`](https://github.com/cyberfabric/cyberware-rust) and [`cyberware-frontx`](https://github.com/cyberfabric/cyberware-frontx).
 
 ## Contributing
 
